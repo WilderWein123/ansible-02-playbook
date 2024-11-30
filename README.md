@@ -40,3 +40,5 @@
 ![Image alt](Screen/Image005.png)
 
 9. Ссылка на описаниее Playbook
+
+https://github.com/WilderWein123/ansible-02-playbook/blob/main/playbook/Readme.md
